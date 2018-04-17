@@ -1,0 +1,67 @@
+---
+title: "FPS, Mtech Energy Solutions"
+author: "Eduardo Rosillo"
+date: "April 9, 2018"
+output: html_document
+        
+        
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+#### Prepared by Eduardo Rosillo, energy engineer, Mtech-Energy Solutions
+supervisor: John Smith, P.E. Project Manager/Head Engineer 
+
+prepared for John "business client" Smith, Building Manager M.B.A., San Francisco Hotel Property Management.   
+
+Head of Sales: Jane Smith M.B.A.     
+
+
+#### Project title: Energy/Personnel Cost Reduction Analysis over San Francisco Hotel (S.F.H.)
+San Francisco Mall Management conducts operational maintenance over the S.F.H. property. The design of this operation and maintenance is determined by both existing hotel business practice laws as well as a desire to meet the customers daily needs. In order to conduct this operation, management personnel work with building engineers and other service employees maintain and upkeep:  
+- Cooling towers    
+- Electrical Systems    
+- Housekeeping    
+- HVAC    
+- Life safety systems    
+- Lighting    
+- Plumbing    
+
+The purpose of this assessment is to evaluate the staffing levels at the S.F.H. property, the quality of the maintenace services provided by the current building engineering team and to inspect the amount of money spent on energy needs over the an annual period of operation. For these reasons S.F.H. property have chosen to conduct business with Mtech-Energy Solutions.
+
+#### Goal of Project:
+
+Given the current U.S. environmental and political climate, significant numbers of consumers are demanding more "earth friendly" products and services. In response, many companies across different industries are taking steps to increase sustainability, switch to green energy, and reduce greenhouse gases (just look at Tesla Motors). The results of the model/analysis deployment, if successful at meeting the benchamrking metric, provided in this project can be used to prove to the environmentally aware customer that S.F.H. property management are making efforts reduce its global footprint. This benefit, along with the potential to reduce the cost of energy consumption by actions over an annual period, will be the motivation for this project.
+
+In order to determine whether or not this project can be successful, *the amount of energy used by action per day over the cost of said energy usage will be the determing factor*. 
+ 
+A statisitcal method known as an inferential test can be used to determine whether or not any energy used by the action after a recommended solution is significant enough to have an effect on cost. From this point, predetermined steps observed to reduce energy action can be implemented based on the reading of the model. 
+
+**Project Risk Assesment**:  
+
+Conducting energy reduction methods determined by the model(s) developed by Mtech-Energy run the risk of reducing hotel customer comfort, as well as the performance capability of the building engineering staff if they find the energy cost reduction methods not time effective. Meeting the business standards determined by market demands, as well as standards and practices used by S.F.H. management to conduct business is critical. It is also possible the deployment of the model used to reduce enery usage will have a high initial investment; reducing profit margins over an annual period.
+
+It is also possible that an inferential such as a Pearson Product Moment Correlation or error test (root-mean-square deviation) of the energy-reduction model will not produce a high correlation between the energy demand predicted and monthly cost predicted. Also the RMSD error could be too high, leading to suspect that failure of model deployment is imminent. 
+
+#### Deployment: Users and Model
+
+**Deployemnt of model used**: Two users will be required to implement the model: building managers and building engineers. Building managers will be required to set standards and practices for reducing energy usage for the building engineers to follow.  
+
+**Risk assessment (model deployment)**: Building engineers and building mangers may have to reevaulate habits and maintenance operations in use for years. This could potentially lead to many initial errors in early stages of deployment and subsequent backlash.
+
+#### Timeline (to completion)
+
+| Stage | Time (days) |
+| ---------- | ------------- |
+| Preliminary | 3 - 5 |
+| Intermediate | 5 - 7 | 
+| Final | 3 |
+
+**Prelimnary steps**: time necessary to deliver early predictions of model/analysis performance
+
+**Intermediate steps**: revaluate model, includes determining whether or not the model/analysis performs under success metric (how strong is the model, calculate using statistical methods) Understand how long it will take to realize a solution to model if it underperforms.
+
+**Final steps**: Presentation to S.F.H and Model deployment.
+
