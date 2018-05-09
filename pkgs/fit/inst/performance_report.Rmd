@@ -1,0 +1,15 @@
+---
+title: "fit.performance model"
+author: "er637474"
+date: "May 8, 2018"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+#### MTech Energy Solutions: Random Forest and Model Fit
+
+Within this document there is an more in depth analysis of the total usage (kilowatts) and monthly cost (dollars US) over an annual period (calculated per month of a total year) of the San Francisco hotel property. This analysis is suppose to be evaluated under the standard metric referred to in the Formal Problem Statement; with an updated and more appropriate standard of measurement for the performance of the model. The model performance, compared to an initial exploratory analysis performed before this model production, does have a lower rate of errors and higher accuracy. However, it would be beneficial to add more testing data in an attempt ot discourage overfitting the model. Intuition leads the team to believe using a time series method, or rather using total usage (kilowatts) and monthly cost (dollars US) data over more annual periods of time, could produce better testing.
+
